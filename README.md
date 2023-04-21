@@ -31,6 +31,4 @@ Migrate your smart contract each time your restart ganache.
 `$ yarn start`
 Visit this URL in your browser: http://localhost:3000
 
-#� �N�F�T�M�a�r�t�
-�
-�
+
